@@ -12,3 +12,7 @@ To use u have to pass 2 arguments
 
 
 python bee_backup.py /home/user/my_database.fdb /home/user/my_database.fbk
+
+## If u use Windows 
+
+U can download the zip file and execute in cmd with the same parameters than we have use in linux 
